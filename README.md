@@ -8,4 +8,4 @@ follow the guide step by step, as not to get ahead of myself.
 I quickly learned a valuable lesson. Taking your time to thoroughly read through the
 task at hand can help you save a lot of time.
 Upon further inspection on the project. I didn't push all iterations to GitHub.
-Therefor I did not succed in the task at hand and will endeavour to improve.
+Therefore I did not succeed in the task at hand and will endeavour to improve.
